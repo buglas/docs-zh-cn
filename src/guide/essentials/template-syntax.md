@@ -261,7 +261,7 @@ data() {
 <form @submit.prevent="onSubmit">...</form>
 ```
 
-之后在讲到 [`v-on`](./event-handling.html#event-modifiers) 和 [`v-model`](./forms.html#modifiers) 的功能时，你将会看到其他修饰符的例子。
+之后在讲到 [`v-on`](./event-handling.html#event-modifiers) 和 [`v-model`](./forms.html#modifiers) 的功能时，你将会看到其它修饰符的例子。
 
 最后，在这里你可以直观地看到完整的指令语法：
 
